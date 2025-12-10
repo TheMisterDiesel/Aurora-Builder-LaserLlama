@@ -3,7 +3,7 @@
     <info>
         <name>Savant Class (LaserLlama)</name>
         <update version="5.1.0">
-            <file name="class-savant.xml" url="https://raw.githubusercontent.com/Zenoverlordian/Aurora-Builder-LaserLlama/main/class-savant.xml" />
+            <file name="class-savant.xml" url="https://raw.githubusercontent.com/TheMisterDiesel/Aurora-Builder-LaserLlama/main/class-savant.xml" />
         </update>
     </info>
 
@@ -1004,3 +1004,4 @@
     </element>
 
 </elements>
+
